@@ -1,0 +1,92 @@
+ <div class="cookie_consent_banner">
+        To remain compliant with EU laws we would like to inform that this site uses cookies. Read our <a href="/en/privacy_policy" target="_blank">privacy policy</a>
+        <button class="btn btn-default cookie_consent_btn" name="button" type="submit">OK, got it</button>
+    </div>
+
+    <div id="page" class="site">
+        <a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+        <div id="header-wrapper">
+            <header id="masthead" class="site-header" role="banner">
+                <div class="row middle-xs">
+                    <div class="site-branding col-xs-3">
+                        <div class="site-title">
+                            <a href="https://www.goconqr.com/en/" rel="home">
+                                <img class="mobile_logo" src="https://image.shutterstock.com/image-vector/happy-students-penc`  ``                              ```````````````````````````````````````````````````````````````````````````````con-educational-260nw-267671981.jpg" al="zeni"></img>
+                            </a>
+                        </div>
+                    </div>
+                    <!-- .site-branding -->
+
+                    <nav id="site-navigation" class="main-navigation col-xs-9" role="navigation">
+                        <div id="toggle"><i class="fa fa-bars" aria-hidden="true"></i></div>
+                        <div id="popout">
+                            <div class="menu-pages-container">
+                                <ul id="menu-pages" class="menu">
+                                    <li id="menu-item-22495" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-22495"><a href="https://www.goconqr.com/en/features/">Features</a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-23917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23917"><a href="https://www.zeni.com/en/teach/course-builder/">Course Builder</a></li>
+                                            <li id="menu-item-22497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22497"><a href="https://www.zeni.com/en/mind-maps/">Mind Map</a></li>
+                                            <li id="menu-item-22500" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22500"><a href="https://www.zeni.com/en/flashcards/">Flashcards</a></li>
+                                            <li id="menu-item-22501" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22501"><a href="https://www.zeni.com/en/quiz-maker/">Quizzes</a></li>
+                                            <li id="menu-item-22505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22505"><a href="https://www.zeni.com/en/notes-software/">Notes</a></li>
+                                            <li id="menu-item-22504" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22504"><a href="https://www.zeni.com/en/slides-maker/">Slides</a></li>
+                                            <li id="menu-item-24863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24863"><a href="https://www.zeni.com/en/flowchart-maker/">Flowchart Maker</a></li>
+                                            <li id="menu-item-22503" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-22423 current_page_item menu-item-22503"><a href="https://www.zeni.com/en/learn/study-groups/">Groups</a></li>
+                                            <li id="menu-item-23171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23171"><a href="https://www.zeni.com/en/learn/goconqr-library/">zeni Library</a></li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-22498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22498"><a href="https://www.zeni.com/en/info/">zeni For…</a>
+                                        <ul class="sub-menu">
+                                            <li id="menu-item-22499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22499"><a href="https://www.zeni.com/en/learn/students/">Learners</a></li>
+                                            <li id="menu-item-22506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22506"><a href="https://www.zeni.com/en/teach/teachers/">Educators</a></li>
+                                            <li id="menu-item-28210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28210"><a href="https://www.zeni.com/en/info/institutions/">Institutions</a></li>
+                                            <li id="menu-item-26599" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26599"><a href="https://www.zeni.com/en/info/companies/">Companies</a></li>
+                                        </ul>
+                                    </li>
+                                    <li id="menu-item-22898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22898"><a href="https://www.zeni.com/en/info/about-us/">About Us</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="menu-sign-up-buttons-container">
+                            <ul id="signup" class="menu">
+                                <li id="menu-item-22491" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22491"><a href="https://www.zeni.com/en/users/sign_in">Sign In</a></li>
+                                <li id="menu-item-22490" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22490"><a href="https://www.zeni.com/en-US/users/sign_up">Sign Up for Free</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <!-- #site-navigation -->
+
+                </div>
+            </header>
+            <!-- #masthead -->
+        </div>
+
+        <div id="content" class="site-content">
+
+
+
+            <div class="row page-banner" style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqdOgVTaDKNCyFZA3gMeAGgrE8Anbs8420ypd3Pu8Ge0UZy6nH_rrtsQgZdgZFoFYmY74&usqp=CAU)">
+                <div class="col-xs-12 col-sm-7 col-md-7 col-lg-7">
+                    <div class="box">
+                        <div class="message">
+                            <h1>Working in Groups</h1>
+                            <p>zeni Study Groups allow you to share ideas and study resources as well as work on projects with classmates or colleagues around the world.</p>
+                        </div>
+
+
+                        <a href="https://www.goconqr.com/users/sign_up" class="signup">
+        					Sign Up. <strong>It's Free!</strong>        				</a>
+
+
+
+                        <!-- <a href="ENTER THE URL FOR GOOGLE SIGN UP HERE" target="_blank" class="google-signup">
+        				<i class="fa fa-google-plus"></i>Sign up with Google        			</a>
+        			<a href="Sign up with Facebook" target="_blank" class="facebook-signup">
+        				<i class="fa fa-facebook"></i>Sign up with Facebook        			</a> -->
+                        <div class="video_button">
+                            <a href="//youtu.be/LWubGdhlMx4?rel=0&autoplay=1" class="venobox_custom" data-type="youtube"><i class="fa fa-play" aria-hidden="true"></i>Watch Our Video</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
